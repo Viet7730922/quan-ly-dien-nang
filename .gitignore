@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+node_modules/
+vendor/
+
+.env
+config.local.php
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
